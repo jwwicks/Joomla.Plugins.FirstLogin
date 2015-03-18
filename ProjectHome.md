@@ -1,0 +1,1 @@
+<p>A simple Joomla 2.5.x system plugin to redirect a user when they first login after the normal Joomla registration process.</p>
